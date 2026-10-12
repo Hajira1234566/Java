@@ -8,6 +8,6 @@ public class methods {
           int age=sc.nextInt();
           System.out.println("your age is:"+age);
           sc.close();
-          //
+          
     }
 }

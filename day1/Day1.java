@@ -1,7 +1,4 @@
 public class Day1 {
-
-   
-
  public static void main(String[] args){
        int num=26;
       String name="Hajira";
@@ -12,5 +9,7 @@ public class Day1 {
 
     System.out.println("Hello World");
     System.out.println("print:"+num+name+lastname+salary+employed+petrol);
+    System.out.println("hi");
+    
  }   
 }
