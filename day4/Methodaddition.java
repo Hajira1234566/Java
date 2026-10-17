@@ -1,5 +1,6 @@
-public class Methodaddition{
+package day4;
 
+public class Methodaddition{
 
 
     public static int addition(int a,int b){
